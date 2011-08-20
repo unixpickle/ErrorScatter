@@ -1,0 +1,355 @@
+TErrorScatter
+v7
+r0
+t335364764.447384
+cCheck dependencies
+cProcessInfoPlistFile /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Info.plist ErrorScatter/ErrorScatter-Info.plist
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch.pth ErrorScatter/ErrorScatter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/main.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/AppDelegate.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/MouseEventCapture.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorWindowView.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ANKeyEvent.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/MacOS/ErrorScatter normal x86_64
+cCopyStringsFile /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/InfoPlist.strings ErrorScatter/en.lproj/InfoPlist.strings
+cCpResource build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/Credits.rtf ErrorScatter/en.lproj/Credits.rtf
+cCompileXIB /Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/MainMenu.xib
+cCpResource build/Debug/ErrorScatter.app/Contents/Resources/errorWind.png ErrorScatter/errorWind.png
+cTouch /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.h
+c000000004E0F4C0D0000000000000349
+t1309625357
+s841
+i<Foundation/Foundation.h>
+i<Carbon/Carbon.h>
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m
+c000000004E0F4CCA0000000000000A45
+t1309625546
+s2629
+i"ANKeyEvent.h"
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.h
+c000000004E4C5DF900000000000001E2
+t1313627641
+s482
+i<Cocoa/Cocoa.h>
+i"MouseEventCapture.h"
+i"ErrorWindowView.h"
+i"ANKeyEvent.h"
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m
+c000000004E4C84390000000000000577
+t1313637433
+s1399
+i"AppDelegate.h"
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorScatter-Prefix.pch
+c000000004E4C466A0000000000000098
+t1313621610
+s152
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.h
+c000000004E4C5FE50000000000000192
+t1313628133
+s402
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m
+c000000004E4C63CF0000000000000A0B
+t1313629135
+s2571
+i"ErrorWindowView.h"
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.h
+c000000004E4C56F9000000000000017A
+t1313625849
+s378
+i<Foundation/Foundation.h>
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m
+c000000004E4C58250000000000000502
+t1313626149
+s1282
+i"MouseEventCapture.h"
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/Credits.rtf
+c000000004E4C466A00000000000001B4
+t1313621610
+s436
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/InfoPlist.strings
+c000000004E4C466A000000000000002D
+t1313621610
+s45
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/MainMenu.xib
+c000000004E4C64090000000000002D79
+t1313629193
+s11641
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/errorWind.png
+c000000004E4C5AD600000000000077DC
+t1313626838
+s30684
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/icon.icns
+c000000004E4E99120000000000012DCC
+t1313773842
+s77260
+
+N/Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m
+c000000004E4C466A00000000000000FC
+t1313621610
+s252
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app
+t1313671964
+s102
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Info.plist
+t1313671953
+s924
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/MacOS/ErrorScatter
+t1313671961
+s38136
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/PkgInfo
+t1313671953
+s8
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/Credits.rtf
+t1313671961
+s436
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1313671962
+s92
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/MainMenu.nib
+t1313671964
+s2933
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/errorWind.png
+t1313671962
+s30684
+
+N/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/icon.icns
+t2
+s0
+
+N/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ANKeyEvent.o
+t1313671960
+s19620
+
+N/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/AppDelegate.o
+t1313671960
+s27484
+
+N/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorScatter.LinkFileList
+c000000004E4D0B110000000000000255
+t1313671953
+s597
+
+N/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorWindowView.o
+t1313671959
+s24408
+
+N/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/MouseEventCapture.o
+t1313671959
+s10068
+
+N/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/main.o
+t1313671959
+s2424
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004CAA74040000000000003A54
+t1286239236
+s14932
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CAA74040000000000003430
+t1286239236
+s13360
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch.pth
+t1313671958
+s9031584
+
+NErrorScatter/ErrorScatter-Info.plist
+c000000004E4E99750000000000000449
+t1313773941
+s1097
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335364752#335364753#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ANKeyEvent.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s335364759.714968
+e335364760.335928
+r1
+xCompileC
+xbuild/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ANKeyEvent.o
+x/Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@66"Compile /Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m335364759#335364760#0(0"0(0#0#58"/Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m8605524992#1583"    cd /Users/alex/Desktop/ErrorScatter    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-generated-files.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-own-target-headers.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-all-target-headers.hmap -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-project-headers.hmap -F/Users/alex/Desktop/ErrorScatter/build/Debug -I/Users/alex/Desktop/ErrorScatter/build/Debug/include -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch -c /Users/alex/Desktop/ErrorScatter/ErrorScatter/ANKeyEvent.m -o /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ANKeyEvent.o0#
+
+CCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/AppDelegate.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s335364759.010478
+e335364760.340412
+r1
+xCompileC
+xbuild/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@67"Compile /Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m335364759#335364760#0(0"0(0#0#59"/Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m8604677152#1585"    cd /Users/alex/Desktop/ErrorScatter    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-generated-files.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-own-target-headers.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-all-target-headers.hmap -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-project-headers.hmap -F/Users/alex/Desktop/ErrorScatter/build/Debug -I/Users/alex/Desktop/ErrorScatter/build/Debug/include -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch -c /Users/alex/Desktop/ErrorScatter/ErrorScatter/AppDelegate.m -o /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/AppDelegate.o0#
+
+CCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorWindowView.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s335364759.639536
+e335364759.714850
+r1
+xCompileC
+xbuild/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorWindowView.o
+x/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@71"Compile /Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m335364759#335364759#0(0"0(0#0#63"/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m8605812352#1593"    cd /Users/alex/Desktop/ErrorScatter    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-generated-files.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-own-target-headers.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-all-target-headers.hmap -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-project-headers.hmap -F/Users/alex/Desktop/ErrorScatter/build/Debug -I/Users/alex/Desktop/ErrorScatter/build/Debug/include -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch -c /Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorWindowView.m -o /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorWindowView.o0#
+
+CCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/MouseEventCapture.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s335364759.565697
+e335364759.639420
+r1
+xCompileC
+xbuild/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/MouseEventCapture.o
+x/Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@73"Compile /Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m335364759#335364759#0(0"0(0#0#65"/Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m8605854048#1597"    cd /Users/alex/Desktop/ErrorScatter    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-generated-files.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-own-target-headers.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-all-target-headers.hmap -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-project-headers.hmap -F/Users/alex/Desktop/ErrorScatter/build/Debug -I/Users/alex/Desktop/ErrorScatter/build/Debug/include -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch -c /Users/alex/Desktop/ErrorScatter/ErrorScatter/MouseEventCapture.m -o /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/MouseEventCapture.o0#
+
+CCompileC build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/main.o /Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s335364759.009484
+e335364759.565598
+r1
+xCompileC
+xbuild/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/main.o
+x/Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@60"Compile /Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m335364759#335364759#0(0"0(0#0#52"/Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m8596923200#1571"    cd /Users/alex/Desktop/ErrorScatter    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-generated-files.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-own-target-headers.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-all-target-headers.hmap -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-project-headers.hmap -F/Users/alex/Desktop/ErrorScatter/build/Debug -I/Users/alex/Desktop/ErrorScatter/build/Debug/include -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch -c /Users/alex/Desktop/ErrorScatter/ErrorScatter/main.m -o /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/MainMenu.xib
+s335364761.190436
+e335364764.440775
+r1
+xCompileXIB
+x/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/MainMenu.xib
+lSLF07#2@45"CompileXIB ErrorScatter/en.lproj/MainMenu.xib335364761#335364764#0(0"0(0#0#67"/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/MainMenu.xib8605290752#384"    cd /Users/alex/Desktop/ErrorScatter    /Xcodes/Developer11072010/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/MainMenu.nib /Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/MainMenu.xib --sdk /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/InfoPlist.strings ErrorScatter/en.lproj/InfoPlist.strings
+s335364761.188896
+e335364762.264401
+r1
+xCopyStringsFile
+x/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/InfoPlist.strings
+xErrorScatter/en.lproj/InfoPlist.strings
+lSLF07#2@44"Copy ErrorScatter/en.lproj/InfoPlist.strings335364761#335364762#0(0"0(0#0#72"/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/InfoPlist.strings8605551136#376"    cd /Users/alex/Desktop/ErrorScatter    setenv ICONV /usr/bin/iconv    /Xcodes/Developer11072010/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 ErrorScatter/en.lproj/InfoPlist.strings --outdir /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj0#
+
+CCpResource build/Debug/ErrorScatter.app/Contents/Resources/en.lproj/Credits.rtf ErrorScatter/en.lproj/Credits.rtf
+s335364761.189848
+e335364761.392369
+r1
+xCpResource
+xbuild/Debug/ErrorScatter.app/Contents/Resources/en.lproj/Credits.rtf
+xErrorScatter/en.lproj/Credits.rtf
+lSLF07#2@38"Copy ErrorScatter/en.lproj/Credits.rtf335364761#335364761#0(0"0(0#0#66"/Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/Credits.rtf8605344224#374"    cd /Users/alex/Desktop/ErrorScatter    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/Desktop/ErrorScatter/ErrorScatter/en.lproj/Credits.rtf /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources/en.lproj0#
+
+CCpResource build/Debug/ErrorScatter.app/Contents/Resources/errorWind.png ErrorScatter/errorWind.png
+s335364762.264534
+e335364762.325755
+r1
+xCpResource
+xbuild/Debug/ErrorScatter.app/Contents/Resources/errorWind.png
+xErrorScatter/errorWind.png
+lSLF07#2@31"Copy ErrorScatter/errorWind.png335364762#335364762#0(0"0(0#0#59"/Users/alex/Desktop/ErrorScatter/ErrorScatter/errorWind.png8604347136#358"    cd /Users/alex/Desktop/ErrorScatter    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/Desktop/ErrorScatter/ErrorScatter/errorWind.png /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Resources0#
+
+CCpResource build/Debug/ErrorScatter.app/Contents/Resources/icon.icns ErrorScatter/icon.icns
+r0
+
+CLd /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/MacOS/ErrorScatter normal x86_64
+s335364760.340487
+e335364761.188727
+r1
+xLd
+x/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/MacOS/ErrorScatter
+xnormal
+xx86_64
+lSLF07#2@94"Link /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/MacOS/ErrorScatter335364760#335364761#0(0"0(0#0#0"8605906272#592"    cd /Users/alex/Desktop/ErrorScatter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Xcodes/Developer11072010/usr/bin/clang -arch x86_64 -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/ErrorScatter/build/Debug -F/Users/alex/Desktop/ErrorScatter/build/Debug -filelist /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/Objects-normal/x86_64/ErrorScatter.LinkFileList -mmacosx-version-min=10.6 -framework Carbon -framework Cocoa -prebind -o /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/MacOS/ErrorScatter0#
+
+CProcessInfoPlistFile /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Info.plist ErrorScatter/ErrorScatter-Info.plist
+s335364753.136289
+e335364753.193228
+r1
+xProcessInfoPlistFile
+x/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Info.plist
+xErrorScatter/ErrorScatter-Info.plist
+lSLF07#2@44"Process ErrorScatter/ErrorScatter-Info.plist335364753#335364753#0(0"0(0#0#69"/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorScatter-Info.plist32651595520999524#320"    cd /Users/alex/Desktop/ErrorScatter    builtin-infoPlistUtility ErrorScatter/ErrorScatter-Info.plist -genpkginfo /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch.pth ErrorScatter/ErrorScatter-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s335364753.193402
+e335364759.009332
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch.pth
+xErrorScatter/ErrorScatter-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@47"Precompile ErrorScatter/ErrorScatter-Prefix.pch335364753#335364759#0(0"0(0#0#69"/Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorScatter-Prefix.pch8604816736#1478"    cd /Users/alex/Desktop/ErrorScatter    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-generated-files.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-own-target-headers.hmap -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-all-target-headers.hmap -iquote /Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/ErrorScatter-project-headers.hmap -F/Users/alex/Desktop/ErrorScatter/build/Debug -I/Users/alex/Desktop/ErrorScatter/build/Debug/include -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ErrorScatter/build/ErrorScatter.build/Debug/ErrorScatter.build/DerivedSources -c /Users/alex/Desktop/ErrorScatter/ErrorScatter/ErrorScatter-Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ErrorScatter-Prefix-bhldkpmswlxeebagkvprcofydtva/ErrorScatter-Prefix.pch.pth0#
+
+CTouch /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app
+s335364764.441013
+e335364764.447336
+r1
+xTouch
+x/Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app
+lSLF07#2@67"Touch /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app335364764#335364764#0(0"0(0#0#0"8605888096#124"    cd /Users/alex/Desktop/ErrorScatter    /usr/bin/touch -c /Users/alex/Desktop/ErrorScatter/build/Debug/ErrorScatter.app0#
+
